@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
-lotto_cache.db
+*.db
+*.sqlite
+*.log
