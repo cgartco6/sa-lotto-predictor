@@ -1,5 +1,1 @@
-
-### `requirements.txt`
-
-```text
 requests>=2.25.0
